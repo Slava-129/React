@@ -1,0 +1,124 @@
+.light-theme {
+    background-color: #F0F2F5;
+    color: #000000;
+}
+
+.light-theme .Header {
+    background-color: #FFFFFF;
+}
+
+.light-theme .Content {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.light-theme .TypewriterListElement {
+    color: #000000;
+}
+.light-theme .TypewriterListElement .ElementTitle {
+    background-color: #F0F2F5;
+}
+
+.light-theme .rightimg {
+    border: 1px solid #f2f2f2;
+}
+
+.light-theme .leftimg {
+    border: 1px solid #f2f2f2;
+}
+
+.light-theme .Link:link {
+    color: #1A0DBE;
+}
+
+.light-theme .Link:visited {
+    color: #276ebc;
+}
+
+.light-theme .Link:hover {
+    color: #17416f;
+}
+
+.light-theme .Link:hover {
+    color: #06223f;
+}
+
+.light-theme .Menu .NavLink {
+    background-color: #166FE5;
+    color: #FFFFFF;
+}
+
+.light-theme .Menu .NavLink:hover {
+    background-color: #1156b2;
+    color: #000000;
+}
+
+.light-theme .Menu .NavLink:active {
+    background-color: #0c3d7e;
+}
+
+.light-theme .Menu .NavLink.active {
+    background-color: #03316f;
+    color: #FFFFFF;
+}
+
+.dark-theme {
+    background-color: #171c20;
+    color: #bfbfbf;
+}
+
+.dark-theme .Header {
+    background-color: #1f2326;
+}
+
+.dark-theme .Content {
+    background-color: #1f2326;
+}
+
+.dark-theme .TypewriterListElement {
+    background-color: #171c20;
+    color: #bfbfbf;
+}
+
+.dark-theme .rightimg {
+    border: 1px solid #FFFFFF;
+}
+
+.dark-theme .leftimg {
+    border: 1px solid #FFFFFF;
+}
+
+.dark-theme .Link:link {
+    color: #85c7d8;
+}
+
+.dark-theme .Link:visited {
+    color: #55818b;
+}
+
+.dark-theme .Link:hover {
+    color: #9cadff;
+}
+
+.dark-theme .Link:active {
+    color: #2345f1;
+}
+
+.dark-theme .Menu .NavLink {
+    background-color: #1f2326;
+    color: #FFFFFF;
+}
+
+.dark-theme .Menu .NavLink:hover {
+    background-color: #ffc107;
+    color: #000000;
+}
+
+.dark-theme .Menu .NavLink:active {
+    background-color: #FFD107;
+}
+
+.dark-theme .Menu .NavLink.active {
+    background-color: #ECF013;
+    color: #000000;
+}

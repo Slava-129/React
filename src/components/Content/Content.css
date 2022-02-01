@@ -1,0 +1,39 @@
+.Content p {
+    text-indent: 1.5em;
+}
+
+.Content .DecimalList {
+    list-style-type: decimal;
+}
+
+.Title {
+    text-align: center;
+}
+
+.rightimg {
+    float: right;
+    padding: 7px;
+    margin: 10px 0 20px 10px;
+    background: transparent;
+    max-width: 200px;
+    font-size: small;
+    box-shadow: -1px 2px 2px 2px #000;
+}
+
+.leftimg {
+    float: left;
+    padding: 7px;
+    margin: 10px 30px 0px 10px;
+    background: transparent;
+    max-width: 200px;
+    font-size: small;
+    box-shadow: 1px 2px 2px 2px #000;
+}
+
+.leftimg p {
+    text-indent: 0;
+}
+
+.rightimg p {
+    text-indent: 0;
+}

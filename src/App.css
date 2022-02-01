@@ -1,0 +1,51 @@
+.App {
+  min-height: 100vh;
+  display: grid;
+  grid-template-areas:
+    "H H H"
+    "M C Rb"
+    "F F F";
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: auto 1fr auto;
+  column-gap: 10px;
+  row-gap: 20px;
+  overflow-x: scroll;
+}
+
+.Header {
+  grid-area: H;
+  box-shadow: 0px 1px 0px 1px #000;
+  padding: 5px 32px;
+  border-radius: 0% 0% 5% 5%;
+}
+
+.Lbar {
+  grid-area: M;
+}
+
+.Rbar {
+  grid-area: Rb;
+}
+
+.Content {
+  grid-area: C;
+  border-radius: 20px;
+  box-shadow: 1px 1px 2px 2px #000;
+  padding: 10px 15px;
+}
+
+.Footer {
+  grid-area: F;
+  align-items: end;
+  box-shadow: 0px -1px 0px 1px #000;
+  padding: 2px 32px;
+  border-radius: 5% 5% 0% 0%;
+}
+
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}

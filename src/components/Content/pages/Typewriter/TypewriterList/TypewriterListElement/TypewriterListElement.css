@@ -1,0 +1,12 @@
+.scrolling-flexbox {
+    display: flex;
+    flex-wrap: nowrap;
+    max-width: 200px;
+    overflow-x: scroll;
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 200px;
+}
