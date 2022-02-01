@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cfc0565.css",
-    "main.js": "/static/js/main.05150f3a.js",
-    "static/js/787.ee4d86e2.chunk.js": "/static/js/787.ee4d86e2.chunk.js",
-    "static/media/Whitestone_typewriter.png": "/static/media/Whitestone_typewriter.ce687ae65045223688df.png",
-    "static/media/Sholes_Glidden_1874.jpg": "/static/media/Sholes_Glidden_1874.284d2a6814abea842140.jpg",
-    "index.html": "/index.html",
-    "main.7cfc0565.css.map": "/static/css/main.7cfc0565.css.map",
-    "main.05150f3a.js.map": "/static/js/main.05150f3a.js.map",
-    "787.ee4d86e2.chunk.js.map": "/static/js/787.ee4d86e2.chunk.js.map"
+    "main.css": "/React/static/css/main.7cfc0565.css",
+    "main.js": "/React/static/js/main.c77607e6.js",
+    "static/js/787.ee4d86e2.chunk.js": "/React/static/js/787.ee4d86e2.chunk.js",
+    "static/media/Whitestone_typewriter.png": "/React/static/media/Whitestone_typewriter.ce687ae65045223688df.png",
+    "static/media/Sholes_Glidden_1874.jpg": "/React/static/media/Sholes_Glidden_1874.284d2a6814abea842140.jpg",
+    "index.html": "/React/index.html",
+    "main.7cfc0565.css.map": "/React/static/css/main.7cfc0565.css.map",
+    "main.c77607e6.js.map": "/React/static/js/main.c77607e6.js.map",
+    "787.ee4d86e2.chunk.js.map": "/React/static/js/787.ee4d86e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cfc0565.css",
-    "static/js/main.05150f3a.js"
+    "static/js/main.c77607e6.js"
   ]
 }
