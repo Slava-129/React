@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.f41c9ab1.css",
-    "main.js": "/React/static/js/main.aa1722c0.js",
+    "main.css": "/React/static/css/main.215591cb.css",
+    "main.js": "/React/static/js/main.396c2a0c.js",
     "static/js/787.ee4d86e2.chunk.js": "/React/static/js/787.ee4d86e2.chunk.js",
-    "static/media/Whitestone_typewriter.png": "/React/static/media/Whitestone_typewriter.ce687ae65045223688df.png",
-    "static/media/Sholes_Glidden_1874.jpg": "/React/static/media/Sholes_Glidden_1874.284d2a6814abea842140.jpg",
+    "static/media/Underwood_3.png": "/React/static/media/Underwood_3.491127aff9b4fd3eacfe.png",
+    "static/media/Underwood.png": "/React/static/media/Underwood.87504a7fbf76523d7f0e.png",
+    "static/media/Underwood_1.png": "/React/static/media/Underwood_1.656390d8f4d1f9e1ae5c.png",
+    "static/media/Chinese_typewriter_1.png": "/React/static/media/Chinese_typewriter_1.7194b7b0542c525d50b1.png",
+    "static/media/Sholes_Glidden_1874.png": "/React/static/media/Sholes_Glidden_1874.934d2b3c8367ba947cd6.png",
+    "static/media/Sholes_glidden.png": "/React/static/media/Sholes_glidden.f41063d34b6e4f8712f9.png",
+    "static/media/Sholes_typewriter.png": "/React/static/media/Sholes_typewriter.50f72220295a7896c7fb.png",
+    "static/media/Underwood_2.png": "/React/static/media/Underwood_2.88427604246e9780c0e1.png",
+    "static/media/Chinese_typewriter.png": "/React/static/media/Chinese_typewriter.d51d368f4d635c58ae50.png",
+    "static/media/Whitestone_typewriter.png": "/React/static/media/Whitestone_typewriter.c78df1a22895717d1292.png",
     "index.html": "/React/index.html",
-    "main.f41c9ab1.css.map": "/React/static/css/main.f41c9ab1.css.map",
-    "main.aa1722c0.js.map": "/React/static/js/main.aa1722c0.js.map",
+    "main.215591cb.css.map": "/React/static/css/main.215591cb.css.map",
+    "main.396c2a0c.js.map": "/React/static/js/main.396c2a0c.js.map",
     "787.ee4d86e2.chunk.js.map": "/React/static/js/787.ee4d86e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f41c9ab1.css",
-    "static/js/main.aa1722c0.js"
+    "static/css/main.215591cb.css",
+    "static/js/main.396c2a0c.js"
   ]
 }
