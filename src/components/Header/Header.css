@@ -1,0 +1,13 @@
+.themeImg {
+    max-width: min-content;
+    max-height: min-content;
+}
+
+.themeButton {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.themeButton button{
+    max-height: 40px;
+}

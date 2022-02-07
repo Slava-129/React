@@ -15,6 +15,7 @@
 .light-theme .TypewriterListElement {
     color: #000000;
 }
+
 .light-theme .TypewriterListElement .ElementTitle {
     background-color: #F0F2F5;
 }
@@ -53,11 +54,22 @@
     color: #000000;
 }
 
-.light-theme .Menu .NavLink:active {
-    background-color: #0c3d7e;
+.light-theme .Menu .NavLink.active {
+    background-color: #03316f;
+    color: #FFFFFF;
 }
 
-.light-theme .Menu .NavLink.active {
+.light-theme .Header .themeButton button {
+    background-color: #166FE5;
+    color: #FFFFFF;
+}
+
+.light-theme .Header .themeButton button:hover {
+    background-color: #1156b2;
+    color: #000000;
+}
+
+.dark-theme .Header .themeButton button:active {
     background-color: #03316f;
     color: #FFFFFF;
 }
@@ -114,11 +126,17 @@
     color: #000000;
 }
 
-.dark-theme .Menu .NavLink:active {
-    background-color: #FFD107;
+.dark-theme .Menu .NavLink.active {
+    background-color: #ECF013;
+    color: #000000;
 }
 
-.dark-theme .Menu .NavLink.active {
+.dark-theme .Header .themeButton button:hover {
+    background-color: #ffc107;
+    color: #000000;
+}
+
+.dark-theme .Header .themeButton button:active {
     background-color: #ECF013;
     color: #000000;
 }

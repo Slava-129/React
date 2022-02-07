@@ -9,7 +9,6 @@
   grid-template-columns: auto 1fr auto;
   column-gap: 10px;
   row-gap: 20px;
-  overflow-x: scroll;
 }
 
 .Header {

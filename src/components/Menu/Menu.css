@@ -1,7 +1,7 @@
 .Menu {
     position: -webkit-sticky;
     position: sticky;
-    top: 50px;
+    top: 20px;
 }
 
 .Menu a {
@@ -14,19 +14,4 @@
     transition: 0.2s;
     display: block;
     margin-bottom: 10px;
-}
-
-.ThemeButton {
-    border: none;
-    background-color: rgb(114, 226, 23);
-    box-shadow: 1px 1px 2px 2px #000;
-    padding: 15px 34px;
-    text-align: center;
-    font-size: 16px;
-    transition: 0.2s;
-    display: block;
-}
-
-.ThemeButton:hover {
-    background-color: rgb(9, 136, 81);
 }
