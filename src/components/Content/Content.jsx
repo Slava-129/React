@@ -6,6 +6,8 @@ import TypewriterList from './pages/Typewriter/TypewriterList/TypewriterList.jsx
 import DesignFeatures from './pages/Typewriter/DesignFeatures.jsx';
 import SholesTypewriter from './pages/Typewriter/TypewriterList/TypewriterListElement/SholesTypewriter.jsx';
 import WhitestoneTypewriter from './pages/Typewriter/TypewriterList/TypewriterListElement/WhitestoneTypewriter.jsx';
+import Underwood from './pages/Typewriter/TypewriterList/TypewriterListElement/Underwood.jsx';
+import ChineseTypewriter from './pages/Typewriter/TypewriterList/TypewriterListElement/ChineseTypewriter.jsx';
 import { Routes, Route } from 'react-router-dom';
 
 const Content = () => {
@@ -19,6 +21,8 @@ const Content = () => {
                 <Route path="/TypewriterList" element={<TypewriterList />} />
                 <Route path="/TypewriterList/SholesTypewriter" element={<SholesTypewriter />} />
                 <Route path="/TypewriterList/WhitestoneTypewriter" element={<WhitestoneTypewriter />} />
+                <Route path="/TypewriterList/Underwood" element={<Underwood />} />
+                <Route path="/TypewriterList/ChineseTypewriter" element={<ChineseTypewriter />} />
             </Routes>
         </div>
     );

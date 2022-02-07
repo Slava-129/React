@@ -8,6 +8,7 @@
     align-items: center;
     justify-content: flex-start;
 }
+
 .themeButton button{
     max-height: 40px;
 }

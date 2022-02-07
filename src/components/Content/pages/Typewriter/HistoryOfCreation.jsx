@@ -1,4 +1,4 @@
-import Sholes_typewriter from './../../../../img/Sholes_typewriter.jpg';
+import Sholes_typewriter from './../../../../img/Sholes_typewriter.png';
 import Whitestone_typewriter from './../../../../img/Whitestone_typewriter.png';
 import { Link } from 'react-router-dom';
 

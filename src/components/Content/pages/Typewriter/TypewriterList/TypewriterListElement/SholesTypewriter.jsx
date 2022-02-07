@@ -1,6 +1,8 @@
-import Sholes_typewriter from './../../../../../../img/Sholes_typewriter.jpg';
-import Sholes_Glidden_1874 from './../../../../../../img/Sholes_Glidden_1874.jpg';
+import Sholes_typewriter from './../../../../../../img/Sholes_typewriter.png';
+import Sholes_Glidden_1874 from './../../../../../../img/Sholes_Glidden_1874.png';
+import Sholes_glidden from './../../../../../../img/Sholes_glidden.png';
 import './TypewriterListElement.css';
+import Slider from './Slider.jsx';
 
 const SholesTypewriter = () => {
     return (
@@ -15,20 +17,7 @@ const SholesTypewriter = () => {
                 У него была раскладка клавиатуры QWERTY, которая из-за успеха машины медленно принималась другими производителями пишущих машинок.
                 Как и в случае с большинством других ранних пишущих машинок, из-за того, что печатные панели ударяют вверх, машинистка не могла видеть символы, когда они были напечатаны.
             </p>
-            <div className='scrolling-flexbox'>
-                <div className='card'>
-                    <img src={Sholes_typewriter} alt="Whitestone_typewriter" />
-                </div>
-                <div className='card'>
-                    <img src={Sholes_Glidden_1874} alt="Sholes_Glidden_1874" />
-                </div>
-                <div className='card'>
-                    <img src={Sholes_typewriter} alt="Whitestone_typewriter" />
-                </div>
-                <div className='card'>
-                    <img src={Sholes_Glidden_1874} alt="Sholes_Glidden_1874" />
-                </div>
-            </div>
+            <Slider ListImg = {[Sholes_typewriter, Sholes_Glidden_1874, Sholes_glidden]} />
         </div>
     );
 }

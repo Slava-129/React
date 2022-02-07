@@ -12,7 +12,7 @@ const Header = () => {
             </div>
             <div className="themeImg" onClick={() => setTheme(!Theme)}>
                 <div className="themeButton" onClick={Themes}>
-                    <img src={Theme ? DarkButton : LightButton} alt={Theme ? 'DarkButton' : 'LightButton'} />
+                    <img src={Theme ? LightButton : DarkButton} alt={Theme ? 'LightButton' : 'DarkButton'} />
                     <button>{Theme ? 'Светлая тема' : 'Тёмная тема'}</button>
                 </div>
             </div>

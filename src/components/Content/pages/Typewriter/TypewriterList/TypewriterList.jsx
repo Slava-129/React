@@ -1,7 +1,9 @@
 import './TypewriterList.css';
-import Sholes_typewriter from './../../../../../img/Sholes_typewriter.jpg';
+import TypewriterListElement from './TypewriterListElement.jsx';
+import Sholes_typewriter from './../../../../../img/Sholes_typewriter.png';
 import Whitestone_typewriter from './../../../../../img/Whitestone_typewriter.png';
-import TypewriterListElement from './TypewriterListElement.jsx'
+import Underwood from './../../../../../img/Underwood.png';
+import Chinese_typewriter from './../../../../../img/Chinese_typewriter.png'
 
 const TypewriterList = () => {
     return (
@@ -21,21 +23,29 @@ const TypewriterList = () => {
                 />
                 <TypewriterListElement
                     Page={'WhitestoneTypewriter'}
-                    Title={'Печатная машинка Уитстона'}
+                    Title={'Пишущая машинка Уитстона'}
                     Image={Whitestone_typewriter}
-                    Text={<><p>yyiyiu</p><p>skjsklj</p></>}
+                    Text={<><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium illo repellat eligendi commodi officia provident, molestiae veniam corporis officiis alias voluptatibus soluta eveniet, nisi, consequuntur odio laborum fuga facere quam!</p><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem corrupti sit repudiandae dignissimos nobis totam cumque doloribus quod minima laborum! Repellendus iusto, placeat tempore sequi tenetur corporis dolores commodi consectetur.</p></>}
                 />
                 <TypewriterListElement
-                    Page={'3'}
-                    Title={'3'}
-                    Image={Whitestone_typewriter}
-                    Text={<p>yyiyiu</p>}
+                    Page={'Underwood'}
+                    Title={'Ундервуд'}
+                    Image={Underwood}
+                    Text={<p>Ундервуд — название пишущих машинок, производившихся одноимённой компанией со штаб-квартирой в Нью-Йорке с 1895 по 1959 год. 
+                        Ундервуд иногда называется первой современной и по-настоящему популярной пишущей машинкой</p>}
                 />
                 <TypewriterListElement
-                    Page={'4'}
-                    Title={'4'}
-                    Image={Whitestone_typewriter}
-                    Text={<p>yyiyiu</p>}
+                    Page={'ChineseTypewriter'}
+                    Title={'Китайская пишущая машинка'}
+                    Image={Chinese_typewriter}
+                    Text={<p>
+                        Китайская пишущая машинка-это пишущая машинка, которая может печатать китайским шрифтом. 
+                        Первые Европейские печатные машинки начали появляться в начале 19 века.
+                        Однако, поскольку китайский язык использует логографических письменности, сторона тысячи китайских иероглифов на компьютере, необходимы гораздо более сложные инженерные чем машинки с помощью простого латинского алфавита, или других логографических скрипты.
+                        обычный китайский типография использует 6000 китайских иероглифов.
+                        Китайские пишущие машинки и похожие японских машинках изобретен киоте Сугимото, которые используют кандзи, заимствованные из китайской системы письма, начали появляться только в начале 20 века.
+                        Существовало по меньшей мере пять десятков версий китайских пишущих машинок, начиная от крупных механических моделей и заканчивая сложными электрическими текстовыми процессорами.
+                        </p>}
                 />
                 <TypewriterListElement
                     Page={'5'}
