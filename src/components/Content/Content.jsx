@@ -9,10 +9,12 @@ import WhitestoneTypewriter from './pages/Typewriter/TypewriterList/TypewriterLi
 import Underwood from './pages/Typewriter/TypewriterList/TypewriterListElement/Underwood.jsx';
 import ChineseTypewriter from './pages/Typewriter/TypewriterList/TypewriterListElement/ChineseTypewriter.jsx';
 import { Routes, Route } from 'react-router-dom';
+import ScrollToTop from './Scrol';
 
 const Content = () => {
     return (
         <div>
+            <ScrollToTop />
             <Routes>
                 <Route path="/React" element={<Home />} />
                 <Route path="/About" element={<About />} />
