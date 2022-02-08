@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.215591cb.css",
-    "main.js": "/React/static/js/main.396c2a0c.js",
+    "main.css": "/React/static/css/main.bc5fd80d.css",
+    "main.js": "/React/static/js/main.726791db.js",
     "static/js/787.ee4d86e2.chunk.js": "/React/static/js/787.ee4d86e2.chunk.js",
     "static/media/Underwood_3.png": "/React/static/media/Underwood_3.491127aff9b4fd3eacfe.png",
     "static/media/Underwood.png": "/React/static/media/Underwood.87504a7fbf76523d7f0e.png",
@@ -14,12 +14,12 @@
     "static/media/Chinese_typewriter.png": "/React/static/media/Chinese_typewriter.d51d368f4d635c58ae50.png",
     "static/media/Whitestone_typewriter.png": "/React/static/media/Whitestone_typewriter.c78df1a22895717d1292.png",
     "index.html": "/React/index.html",
-    "main.215591cb.css.map": "/React/static/css/main.215591cb.css.map",
-    "main.396c2a0c.js.map": "/React/static/js/main.396c2a0c.js.map",
+    "main.bc5fd80d.css.map": "/React/static/css/main.bc5fd80d.css.map",
+    "main.726791db.js.map": "/React/static/js/main.726791db.js.map",
     "787.ee4d86e2.chunk.js.map": "/React/static/js/787.ee4d86e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.215591cb.css",
-    "static/js/main.396c2a0c.js"
+    "static/css/main.bc5fd80d.css",
+    "static/js/main.726791db.js"
   ]
 }
