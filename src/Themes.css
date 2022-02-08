@@ -131,8 +131,13 @@
     color: #000000;
 }
 
-.dark-theme .Header .themeButton button:hover {
+.dark-theme .Header .themeButton button {
     background-color: #ffc107;
+    color: #000000;
+}
+
+.dark-theme .Header .themeButton button:hover {
+    background-color: #f7c11f;
     color: #000000;
 }
 
